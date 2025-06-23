@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class CalculatorTester {
     
     // Step 1: Declare a static variable to store the running result of calculations
-    static double result;
+    static double result;askdlhdisa
 
     public static void main(String[] args) {
         // Step 2: Create a Scanner object for reading user input from the console
