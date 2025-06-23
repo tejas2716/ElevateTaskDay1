@@ -1,4 +1,4 @@
-package com.elevate_Internship_Day_1;
+package com.elevate_Internship_Day_1_TejasSathe;
 
 // Import necessary classes for input and exception handling
 import java.util.InputMismatchException;
