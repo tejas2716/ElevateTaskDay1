@@ -1,7 +1,7 @@
 #---Welcome to Java Console Calculator--
 
 #Developed by: Tejas Sathe
-#MailId - sathetejas111@gmail.com 
+#MailId - sathetejas111@gmail.com  
 
 #Project Description
 This is a **simple Java console-based calculator** that performs **basic arithmetic operations** such as:
