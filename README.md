@@ -4,7 +4,7 @@
 #MailId - sathetejas111@gmail.com  
 
 #Project Description
-This is a **simple Java console-based calculator** that performs **basic arithmetic operations** such as:
+This is a **simple Java console-based calculator** that performs **basic arithmetic operations** such as: 
 - Addition
 - Subtraction
 - Multiplication
